@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104123035575",
+    "project_id": "ezyschool-c7022",
+    "storage_bucket": "ezyschool-c7022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104123035575:android:ea4ebbf696ba3fce208232",
+        "android_client_info": {
+          "package_name": "com.ezyschooladmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJ-UvdOihkBSDn07clA6QVUDxKiPp3kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
